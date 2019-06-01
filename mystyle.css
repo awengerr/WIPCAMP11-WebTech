@@ -1,0 +1,18 @@
+h1 {
+    font-family: 'Concert One', cursive;
+    font-size: 50px;
+    color: #C2AE6B ;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: -5px;
+    
+}
+h4{
+    font-family: 'Concert One', cursive;
+    margin-top: 5px;
+    margin-left: 7px;
+    color: #EDEBA7 ;
+}
+body{
+    background-color: #F5F5E4  
+}
